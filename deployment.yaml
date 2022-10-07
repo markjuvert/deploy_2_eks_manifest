@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: juvertm/deploy_python_app_2_eks:2
+      - image: juvertm/deploy_python_app_2_eks:4
         name: flaskdemo
         resources: {}
 status: {}
